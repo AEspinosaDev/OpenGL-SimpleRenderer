@@ -24,9 +24,9 @@
     
   Lenguages im using here: C,C++ and GLSL for the shading part.
   
-  There are a lot of shaders implemented, each one of them focusing on one specific part of the classic rendering techniques. Going from the simplest tasks to the more complex ones.
+  There are a lot of shaders implemented, each one of them focusing on one specific part of the classic rendering techniques. They go from the simplest tasks to the more complex ones.
   
-  Most of the practical concepts are encapsulated in  very simple classes. 
+  Most of the practical concepts are encapsulated in very simple classes. 
   
   It supports lightning and basic types of textures. You can import your own meshes. On a close future shadows will be added in a new shader.
   
