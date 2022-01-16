@@ -20,40 +20,42 @@
    <h2 align="center">CHARACTERISTICS<br> 
     </br></h2>
     
-  This project implements the basic forward rendering.  
+  - This project implements the basic forward rendering.  
     
-  Lenguages im using here: C,C++ and GLSL for the shading part.
+  - Lenguages im using here: C,C++ and GLSL for the shading part.
   
-  There are a lot of shaders implemented, each one of them focusing on one specific part of the classic rendering techniques. They go from the simplest tasks to the more complex ones.
+ - There are a lot of shaders implemented, each one of them focusing on one specific part of the classic rendering techniques. They go from the simplest tasks to the more complex ones.
   
-  Most of the practical concepts are encapsulated in very simple classes. 
+ - Most of the practical concepts are encapsulated in very simple classes. 
   
-  It supports lightning and basic types of textures. You can import your own meshes. On a close future shadows will be added in a new shader.
+ - It supports lightning and basic types of textures. You can import your own meshes. On a close future shadows will be added in a new shader.
   
-  I use GLUT for the context and ASSIMP for importing meshes.
+ - I use GLUT for the context and ASSIMP for importing meshes.
   
-  I believe it is a good example for people who are introducing in the graphics world.
+ - I believe it is a good example for people who are introducing in the graphics world.
+  
   
   3D MODELS AND TEXTURES ARE ALL MADE BY ME. ANY USAGE SHOULD BE ACCREDITED.
   </p>
+  
  <p>
    <h2 align="center">CONTROLS<br> 
     </br></h2>
     
-  You can move freely by using the mouse and WASD.
+ - You can move freely by using the mouse and WASD.
   
-  R = Reset position
+ - R = Reset position
   
-  O = Turn on/off flashlight
+ - O = Turn on/off flashlight
   
-  2 = Decrease light intensity
+ - 2 = Decrease light intensity
 
   
-  8 = Increase light intensity
+ - 8 = Increase light intensity
   
-  4 = Move light left
+ - 4 = Move light left
   
-  6 = Move light right
+ - 6 = Move light right
   
   
   </p>  
